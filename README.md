@@ -8,7 +8,7 @@
 ### Python Version **3.9.13**
 
 ### MAC OS
-##### create virtualenv using command **python3 -m venv venv**
+##### create virtualenv using command <sup>python3 -m venv venv</sup>
 ##### activate virtualenv using command **source venv/bin/activate**
 ##### install packages from requirement.txt file command is **pip3 install -r requirements.txt**
 ##### run server using command **python3 app.py**
