@@ -15,7 +15,7 @@
 ###### Backend server is started
 
 ## Frontend Instructions React.js
-### Node Version**(14.19.1)**
+### Node Version **14.19.1**
 
 ### MAC OS
 #### install packages using <sub>npm i</sub>
